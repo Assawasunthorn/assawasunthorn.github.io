@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="HFq71VIt_U2qcZLJ81DtFDI240K8I1WQYkbX0oefbes" />
 # ร้านอัศวสุนทร
 ## ที่อยู่
 - ร้านอัศวสุนทร (เทเวศร์)
@@ -7,5 +8,8 @@
 - จำหน่ายสินค้าตามเทศกาลต่างๆ คริสมาสต์ ปีใหม่  วันเด็ก ตรุษจีน วาเลนไทน์ สงกรานต์ เชงเม้ง  ลอยกระทง ฮาโลวีน
 - จำหน่ายสังฆภัณฑ์ รับจัดสังฆทาน
 - จำหน่ายสินค้าเบ็ดเตล็ด เครื่องเขียน อุปกรณ์ทำงานฝีมือ ของจำเป็นใช้ สินค้าห่อของขวัญ อุปกรณ์ไฟฟ้า
+## ติดต่อ
+- <a href="https://lin.ee/OldW1bN"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/th.png" alt="เพิ่มเพื่อน" height="36" border="0"></a>
+- ![QrCode](https://qr-official.line.me/gs/M_930tqlmv_GW.png?oat_content=qr)
 ## แผนที่
 <div style="max-width:100%;overflow:hidden;color:red;width:500px;height:500px;"><div id="g-mapdisplay" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=อัศวสุนทร+ถนน+สามเสน+แขวงบางขุนพรหม+เขตพระนคร+กรุงเทพมหานคร+ประเทศไทย&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="embedded-map-code" href="https://www.bootstrapskins.com/themes" id="authmaps-data">premium bootstrap themes</a><style>#g-mapdisplay .text-marker{}.map-generator{max-width: 100%; max-height: 100%; background: none;</style></div>
